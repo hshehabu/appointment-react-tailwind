@@ -1,5 +1,5 @@
 import React from 'react'
-import {assets} from '../assets/assets_frontend'
+import {assets} from '../assets/assets'
 const Navbar = () => {
   return (
     <div>
